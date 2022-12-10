@@ -1,0 +1,27 @@
+# Temporary files
+*.pyc
+*.pyo
+
+# Test data
+/testdata/
+
+# Compiled files
+/build/
+/dist/
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter notebooks
+*.ipynb
+
+# IDE settings
+.idea/
+*.iml
+
+# Other
+.DS_Store
+
